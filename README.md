@@ -18,3 +18,7 @@ This is the **frontend** of the **Hospital Management System (HMS)**, built usin
 - **JavaScript**: Adding interactivity and dynamic features.
 - **FontAwesome**: Used for icons throughout the site (e.g., for service icons, buttons, etc.).
 
+## 🌐 Live Demo
+[View Site on Netlify](https://hms-bysamee.netlify.app/)
+
+
